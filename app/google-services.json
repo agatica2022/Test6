@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1068522250340",
+    "project_id": "proyecto6-26772",
+    "storage_bucket": "proyecto6-26772.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068522250340:android:dfb9fb176e45612bb67f71",
+        "android_client_info": {
+          "package_name": "com.agatica2021.test6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068522250340-rf66ccsqb135jis3s575087ev487krjg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agatica2021.test6",
+            "certificate_hash": "f719bd533784f7b90e7b8fd278a7110246650eab"
+          }
+        },
+        {
+          "client_id": "1068522250340-p9114u36nggr17lcm6osaiff4n1l1f7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS2JRFbH2sfliCV1n_OeLh6tXBWDDmdSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068522250340-p9114u36nggr17lcm6osaiff4n1l1f7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
